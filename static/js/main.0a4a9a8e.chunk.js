@@ -1,0 +1,2 @@
+(this["webpackJsonpgh-pages-app"]=this["webpackJsonpgh-pages-app"]||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var a=t(1),c=t.n(a),r=t(3),s=t.n(r),p=(t(8),t(0));var i=function(){return Object(p.jsxs)(c.a.Fragment,{children:[Object(p.jsx)("h1",{children:"Michael Gatmaitan"}),Object(p.jsx)("p",{children:"Front-end Developer"})]})};s.a.render(Object(p.jsx)(i,{}),document.getElementById("root"))},8:function(e,n,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.0a4a9a8e.chunk.js.map
